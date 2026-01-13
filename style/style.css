@@ -11,4 +11,16 @@
   width: 100%;
   background: #765BA7;
   background: linear-gradient(90deg, rgb(118, 91, 167) 0%, rgb(115, 111, 76) 100%);
+}
+.container p {
+  position: fixed;
+  top: 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-family: sans-serif;
+  font-size: 14px;
+  color: whitesmoke;
+  letter-spacing: 0.06em;
+  margin: 0;
+  pointer-events: none;
 }/*# sourceMappingURL=style.css.map */

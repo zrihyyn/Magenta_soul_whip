@@ -11,7 +11,8 @@ const gradients = [
     'linear-gradient(90deg, #da291c, #686869)',
     'linear-gradient(90deg, #e16740, #e98f9d)',
     'linear-gradient(90deg, #000000, #e16740, #e98f9d, #000000)',
-    'linear-gradient(90deg, #f8e815, #8a65c4, #636968)'
+    'linear-gradient(90deg, #f8e815, #8a65c4, #636968)',
+    'linear-gradient(90deg, #FFD700, #f56d9e, #a4a6a8)'
   ];
   
   let index = 0;
